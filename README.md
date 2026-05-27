@@ -38,7 +38,7 @@
 
 ### Зависимость времени выполнения от вычислительного объёма
 
-![Time vs Volume](image/time_vs_volume3.png)
+![Time vs Volume](time_vs_volume3.png)
 
 ## Вывод
 
