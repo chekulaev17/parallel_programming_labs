@@ -46,11 +46,11 @@
 ## Графики
 ### Зависимость времени выполнения от размера матрицы
 
-![Time vs Size](image/time_vs_size.png)
+![Time vs Size](time_vs_size.png)
 
 ### Зависимость времени выполнения от вычислительного объёма
 
-![Time vs Volume](image/time_vs_volume.png)
+![Time vs Volume](time_vs_volume.png)
 
 ## Вывод
 
